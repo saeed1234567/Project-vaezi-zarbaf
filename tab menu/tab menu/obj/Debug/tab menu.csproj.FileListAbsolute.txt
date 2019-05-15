@@ -1,0 +1,21 @@
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\bin\Debug\tab menu.exe.config
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\bin\Debug\tab menu.exe
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\bin\Debug\tab menu.pdb
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\bin\Debug\MaterialDesignColors.dll
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\obj\Debug\tab menu.csprojAssemblyReference.cache
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\obj\Debug\MainWindow.g.cs
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\obj\Debug\App.g.cs
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\obj\Debug\tab menu_MarkupCompile.cache
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\obj\Debug\tab menu_MarkupCompile.lref
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\obj\Debug\App.baml
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\obj\Debug\MainWindow.baml
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\obj\Debug\tab menu.g.resources
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\obj\Debug\tab_menu.Properties.Resources.resources
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\obj\Debug\tab menu.csproj.GenerateResource.cache
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\obj\Debug\tab menu.csproj.CoreCompileInputs.cache
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\obj\Debug\tab menu.csproj.CopyComplete
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\obj\Debug\tab menu.exe
+C:\Users\Ali Zarbaf\source\repos\tab menu\tab menu\obj\Debug\tab menu.pdb
